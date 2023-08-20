@@ -138,7 +138,7 @@
 
 > Composite Structure Diagram được sử dụng để hiển thị cấu trúc bên trong của một lớp.
 > Có thể sử dụng loại Diagram này trong ứng dụng Embedded như ví dụ sau:
-> ![Alt text](Image/composite_diagram_0.png)
+![Alt text](Image/composite_diagram_0.png)
 
 ### Use Case Diagram
 
@@ -242,8 +242,8 @@
         ![Alt text](Image/state_machine_3.png)
 -   `Substate`: là một `state` gồm nhiều `state` nhỏ hơn ở trong.
     ![Alt text](Image/state_machine_4.png)
--   `History States`:
--   `Concurrent State`:
+<!-- -   `History States`:
+-   `Concurrent State`: -->
 -   Phân biệt `State Machine Diagram` và `Activity Diagram`:
     ![Alt text](Image/state_machine_5.png)
 
