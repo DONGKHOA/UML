@@ -81,8 +81,8 @@
 -   Có 4 kiểu mối quan hệ :
     -   Inheritance: 1 class kế thừa từ 1 class khác.
     -   Association: 2 class có liên hệ với nhau nhưng không chỉ rõ mối liên hệ.
-    -   Composition: Đối tượng tạo từ lass A mất thì đối tượng tạo từ class B sẽ mất.
-    -   Agreegation: Đối tượng tạo từ lass A mất thì đối tượng tạo từ class B vẫn tồn tại độc lập.
+    -   Composition: Đối tượng tạo từ class A mất thì đối tượng tạo từ class B sẽ mất.
+    -   Agreegation: Đối tượng tạo từ class A mất thì đối tượng tạo từ class B vẫn tồn tại độc lập.
 
 ### Component Diagram
 
