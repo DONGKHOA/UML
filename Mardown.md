@@ -297,3 +297,4 @@
 
 > [UML Diagram Types Guide: Learn About All Types of UML Diagrams with Examples](https://creately.com/blog/diagrams/uml-diagram-types-examples/) 
 > [Learning UML](https://www.visual-paradigm.com/guide/)
+> [Timing Diagram](https://www.edrawmax.com/article/timing-diagram-explained.html)
