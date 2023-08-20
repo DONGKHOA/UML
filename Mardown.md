@@ -138,7 +138,7 @@
 
 > Composite Structure Diagram được sử dụng để hiển thị cấu trúc bên trong của một lớp.
 > Có thể sử dụng loại Diagram này trong ứng dụng Embedded như ví dụ sau:
-![Alt text](Image/composite_diagram_0.png)
+> ![Alt text](Image/composite_diagram_0.png)
 
 ### Use Case Diagram
 
@@ -241,7 +241,7 @@
     -   `Exit Action` được thực hiện khi thoát khỏi trạng thái với ký hiệu: `Exit / action`.
         ![Alt text](Image/state_machine_3.png)
 -   `Substate`: là một `state` gồm nhiều `state` nhỏ hơn ở trong.
-    ![Alt text](Image/state_machine_4.png)
+![Alt text](Image/state_machine_4.png)
 <!-- -   `History States`:
 -   `Concurrent State`: -->
 -   Phân biệt `State Machine Diagram` và `Activity Diagram`:
@@ -287,14 +287,16 @@
 
 > -   Interaction Overview Diagram rất giống với `Activity Diagram`. Trong khi `Activity Diagram` thể hiện trình tự của các quy trình thì `Interaction Overview Diagram` thể hiện trình tự của các tương tác.
 > -   Nó là tập hợp các sơ đồ tương tác và thứ tự chúng xảy ra. Như đã đề cập trước đó, có 7 loại **interaction diagram**, bất kì loại nào cũng có thể là một **_node_** trong `Interaction Overview Diagram`.
-- Cách vẽ giống với `Activity Diagram` thay vì một node là action thì ở loại diagram này là Interaction.
-![Alt text](Image/interaction_diagram_0.png)
+
+-   Cách vẽ giống với `Activity Diagram` thay vì một node là action thì ở loại diagram này là Interaction.
+    ![Alt text](Image/interaction_diagram_0.png)
+
 ### Timing Diagram
 
 > Là một dạng sơ đồ trình tự sử dụng đồ thị và sóng để mô tả hành vi và tương tác giữa các đối tượng và thời gian của sự kiện xảy ra trong một khoảng thời gian nhất định.
 
 ## Reference
 
-> [UML Diagram Types Guide: Learn About All Types of UML Diagrams with Examples](https://creately.com/blog/diagrams/uml-diagram-types-examples/) 
-> [Learning UML](https://www.visual-paradigm.com/guide/)
-> [Timing Diagram](https://www.edrawmax.com/article/timing-diagram-explained.html)
+> -   [UML Diagram Types Guide: Learn About All Types of UML Diagrams with Examples](https://creately.com/blog/diagrams/uml-diagram-types-examples/)
+> -   [Learning UML](https://www.visual-paradigm.com/guide/)
+> -   [Timing Diagram](https://www.edrawmax.com/article/timing-diagram-explained.html)
